@@ -1,4 +1,4 @@
-# Tmorph Helper
+# TMorph Helper
 
 Place the _loader.lua file in your scripts folder. Load the JavaScript using Tampermonkey or input it into the developer console. Then, get the itemID array and insert it into your _loader.lua file.
 
